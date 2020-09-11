@@ -1,0 +1,41 @@
+../../Instances/st70_d26.tsp
+../../Instances/st70_d26.tsp../../Instances/st70_d26.tsp
+
+---------------------------------------------
+Instance	-> st70_d26
+---------------------------------------------
+Time limit	->3600
+../../Instances/st70_d26.tsp
+../../Instances/st70_d26.tsp
+../../Instances/st70_d26.tsp
+../../Instances/st70_d26.tsp
+Hello world from processor mkl-GE60-2PE, rank 1 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 4 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 2 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 3 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 5 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 6 out of 7 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 1604.24;
+   primal bound 2339;
+   left pointer 0;
+   right pointer 0;
+first branching node 1170
+Primal     2298   dual    1604.24
+Primal     2298   dual    1604.66
+
+Optimal Value	2298
+LP	1604.66
+Time	3946.75
+Nodes	71
+STATUS	107
+
+
+
+70 & 26 & 71 & 71 & 35 & 36 & 0 & 2298 & 1604.66 & 3946.75 & 317.633
+

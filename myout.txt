@@ -1,0 +1,77 @@
+---------------------------------------------
+Instance	-> berlin10_d5
+---------------------------------------------
+Time limit	->../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp../../Instances/berlin10_d5.tsp
+60
+../../Instances/berlin10_d5.tsp
+
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, rank 1 out of 8 processors
+Hello world from processor mkl-GE60-2PE, rank 5 out of 8 processors
+Hello world from processor mkl-GE60-2PE, rank 6 out of 8 processors
+Hello world from processor mkl-GE60-2PE, rank 3 out of 8 processors
+Hello world from processor mkl-GE60-2PE, rank 2 out of 8 processors
+Hello world from processor mkl-GE60-2PE, rank 4 out of 8 processors
+Hello world from processor mkl-GE60-2PE, rank 7 out of 8 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 5414.99;
+   primal bound 7150;
+   left pointer 0;
+   right pointer 0;
+first branching node 22
+Primal     7085   dual    5449.65
+Primal     6778   dual    5449.65
+Primal     6641   dual    5474.23
+Primal     6435   dual    5474.23
+Primal     6334   dual    5474.23
+Primal     6334   dual    5474.37
+Primal     6313   dual    5474.37
+Primal     6205   dual    5474.37
+Primal     6205   dual    5622.2
+Primal     6134   dual    5622.2
+Primal     6134   dual    5637.32
+Primal     6120   dual    5637.32
+Primal     6032   dual    5637.32
+Primal     6032   dual    5666.56
+Primal     6032   dual    5692.56
+Primal     6019   dual    5692.56
+Primal     6019   dual    5712.06
+Primal     6019   dual    5713.35
+Primal     6019   dual    5721.72
+Primal     6019   dual    5783.45
+Primal     6019   dual    5832.39
+Primal     6019   dual    5836.88
+Primal     6019   dual    5840.04
+Primal     6019   dual    5844.5
+Primal     6019   dual    5877.5
+Primal     6019   dual    5901.15
+Primal     6019   dual    5901.62
+Primal     6019   dual    5905.39
+Primal     6019   dual    5929.75
+Primal     6019   dual    5934.83
+Primal     6019   dual    6019
+
+
+
+Number of weird solutions = 0
+
+
+Optimal Value	6019
+LP	6019
+Time	0.714823
+Nodes	1169
+STATUS	101
+
+
+
+10 & 5 & 6019 & 6019 & 1169 & 1169 & 0 & 566 & 451 & 315 & 0.006941 & 0.714823
+

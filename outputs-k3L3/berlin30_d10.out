@@ -1,0 +1,77 @@
+../../Instances/berlin30_d10.tsp
+---------------------------------------------
+Instance	-> berlin30_d10
+---------------------------------------------
+Time limit	->3600
+../../Instances/berlin30_d10.tsp
+../../Instances/berlin30_d10.tsp
+../../Instances/berlin30_d10.tsp
+../../Instances/berlin30_d10.tsp
+../../Instances/berlin30_d10.tsp
+../../Instances/berlin30_d10.tsp
+Hello world from processor mkl-GE60-2PE, rank 3 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 1 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 2 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 4 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 5 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 6 out of 7 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 9666.36;
+   primal bound 12465;
+   left pointer 0;
+   right pointer 0;
+first branching node 136
+Primal     11772   dual    9669.75
+Primal     11712   dual    9669.75
+Primal     11556   dual    9669.75
+Primal     11556   dual    9681.23
+Primal     11458   dual    9681.23
+Primal     11248   dual    9684.13
+Primal     11248   dual    9685
+Primal     11248   dual    9693.54
+Primal     10649   dual    9693.54
+Primal     10649   dual    9694.28
+Primal     10649   dual    9694.33
+Primal     10649   dual    9737.56
+Primal     10386   dual    9737.56
+Primal     10386   dual    9741.35
+Primal     10386   dual    9745.47
+Primal     10353   dual    9745.47
+Primal     10353   dual    9749.64
+Primal     10353   dual    9772.67
+Primal     10352   dual    9772.67
+Primal     10352   dual    9775.36
+Primal     10346   dual    9775.36
+Primal     10346   dual    9781.07
+Primal     10346   dual    9782.12
+Primal     10346   dual    9786.88
+Primal     10346   dual    9790.08
+Primal     10325   dual    9790.08
+Primal     10325   dual    9795.76
+Primal     10325   dual    9798.06
+Primal     10325   dual    9806.67
+Primal     10288   dual    9806.67
+Primal     10288   dual    9819.81
+Primal     10288   dual    9825.8
+Primal     10288   dual    9830.94
+Primal     10288   dual    9851.38
+Primal     10288   dual    9865.73
+Primal     10288   dual    9874.92
+Primal     10287   dual    9874.92
+Primal     10287   dual    9887.51
+
+Optimal Value	10287
+LP	9887.51
+Time	3600.19
+Nodes	54627
+STATUS	107
+
+
+
+30 & 10 & 54627 & 54627 & 51360 & 3267 & 24029 & 10287 & 9887.51 & 3600.19 & 0.589333
+

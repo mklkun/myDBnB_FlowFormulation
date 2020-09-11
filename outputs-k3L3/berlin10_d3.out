@@ -1,0 +1,44 @@
+../../Instances/berlin10_d3.tsp
+../../Instances/berlin10_d3.tsp
+../../Instances/berlin10_d3.tsp
+---------------------------------------------
+Instance	-> berlin10_d3
+---------------------------------------------
+Time limit	->../../Instances/berlin10_d3.tsp
+../../Instances/berlin10_d3.tsp
+../../Instances/berlin10_d3.tsp
+3600
+../../Instances/berlin10_d3.tsp
+Hello world from processor mkl-GE60-2PE, rank 3 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 2 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 4 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 5 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 1 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 6 out of 7 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 3593;
+   primal bound 5798;
+   left pointer 0;
+   right pointer 0;
+first branching node 0
+Primal     3708   dual    3593
+Primal     3708   dual    3600.33
+Primal     3678   dual    3600.33
+Primal     3678   dual    3621.33
+Primal     3678   dual    3678
+
+Optimal Value	3678
+LP	3678
+Time	0.016498
+Nodes	7
+STATUS	101
+
+
+
+10 & 5 & 7 & 7 & 7 & 0 & 1 & 3678 & 3678 & 0.016498 & 0.007049
+

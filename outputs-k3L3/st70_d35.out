@@ -1,0 +1,42 @@
+---------------------------------------------
+Instance	-> st70_d35
+---------------------------------------------
+Time limit	->3600
+../../Instances/st70_d35.tsp
+../../Instances/st70_d35.tsp../../Instances/st70_d35.tsp../../Instances/st70_d35.tsp
+
+
+../../Instances/st70_d35.tsp
+../../Instances/st70_d35.tsp
+../../Instances/st70_d35.tsp
+Hello world from processor mkl-GE60-2PE, rank 3 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 5 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 2 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 4 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 1 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 6 out of 7 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 2138.94;
+   primal bound 3080;
+   left pointer 0;
+   right pointer 0;
+first branching node 1505
+Primal     3013   dual    2138.96
+Current INFEASIBLE
+Current INFEASIBLE
+
+Optimal Value	3013
+LP	2138.96
+Time	6167.67
+Nodes	25
+STATUS	107
+
+
+
+70 & 35 & 25 & 25 & 14 & 11 & 0 & 3013 & 2138.96 & 6167.67 & 1091.56
+

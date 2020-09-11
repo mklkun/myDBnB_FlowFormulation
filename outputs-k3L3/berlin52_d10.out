@@ -1,0 +1,61 @@
+---------------------------------------------
+Instance	-> berlin52_d10
+---------------------------------------------
+Time limit	->3600
+../../Instances/berlin52_d10.tsp
+../../Instances/berlin52_d10.tsp
+../../Instances/berlin52_d10.tsp
+../../Instances/berlin52_d10.tsp
+../../Instances/berlin52_d10.tsp
+../../Instances/berlin52_d10.tsp
+../../Instances/berlin52_d10.tsp
+Hello world from processor mkl-GE60-2PE, rank 1 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 6 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 5 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 2 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 3 out of 7 processors
+Hello world from processor mkl-GE60-2PE, rank 4 out of 7 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 9494.37;
+   primal bound 12731;
+   left pointer 0;
+   right pointer 0;
+first branching node 300
+Primal     11376   dual    9512.58
+Primal     11259   dual    9512.58
+Primal     11259   dual    9513.2
+Primal     11259   dual    9515.23
+Primal     11259   dual    9515.53
+Primal     11215   dual    9515.53
+Primal     11008   dual    9515.53
+Primal     11008   dual    9517.17
+Primal     10830   dual    9517.17
+Primal     10469   dual    9517.17
+Primal     9959   dual    9517.17
+Primal     9959   dual    9518.75
+Primal     9959   dual    9569.06
+Primal     9959   dual    9592.85
+Primal     9959   dual    9609.34
+Primal     9959   dual    9618.8
+Primal     9959   dual    9619.73
+Primal     9959   dual    9622.31
+Primal     9959   dual    9628.87
+Primal     9959   dual    9639.88
+Primal     9959   dual    9639.93
+Primal     9959   dual    9648.54
+
+Optimal Value	9959
+LP	9648.54
+Time	3601.28
+Nodes	6755
+STATUS	107
+
+
+
+52 & 10 & 6755 & 6755 & 5989 & 766 & 2610 & 9959 & 9648.54 & 3601.28 & 2.75896
+

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "$1  K = $3 L = $4 \n";
+
+#fileIn="$1.tsp"
+fileIn="$1"
+dirOut="outputs-k$3L$4"
+fileOut="$dirOut/$1.out" 
+
+if [ ! -d "$dirOut" ]; then
+	mkdir "$dirOut"
+fi
+
+mpirun -np 7 ./main.sh $fileIn $2 $3 $4 > $fileOut;
+
+rm -rf $dirOut/*.log;
+
+echo "\n";

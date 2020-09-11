@@ -1,0 +1,25 @@
+#!/bin/bash
+
+SCRIPT_DIR=${PWD}
+
+echo "################################\n";
+
+${SCRIPT_DIR}/run berlin10_d3 3600 3 3;
+${SCRIPT_DIR}/run berlin10_d5 3600 3 3;
+
+echo "################################\n";
+
+${SCRIPT_DIR}/run berlin30_d10 3600 3 3;
+${SCRIPT_DIR}/run berlin30_d15 3600 3 3;
+
+echo "################################\n";
+
+${SCRIPT_DIR}/run berlin52_d10 3600 3 3;
+${SCRIPT_DIR}/run berlin52_d20 3600 3 3;
+${SCRIPT_DIR}/run berlin52_d26 3600 3 3;
+
+echo "################################\n";
+
+${SCRIPT_DIR}/run st70_d15 3600 3 3;
+${SCRIPT_DIR}/run st70_d26 3600 3 3;
+${SCRIPT_DIR}/run st70_d35 3600 3 3;

@@ -1,0 +1,69 @@
+../../Instances/berlin10_d5.tsp
+---------------------------------------------
+Instance	-> berlin10_d5
+---------------------------------------------
+Time limit	->3600
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, rank 1 out of 7 processors
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, rank 2 out of 7 processors
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, rank 3 out of 7 processors
+../../Instances/berlin10_d5.tsp
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, rank 5 out of 7 processors
+../../Instances/berlin10_d5.tsp
+Hello world from processor mkl-GE60-2PE, rank 4 out of 7 processors
+Node 0 from between 1 :
+   id 0;
+   level 0;
+   branching node 999999999;
+   ROOT node;
+   status 0;
+   dual bound 5414.99;
+   primal bound 7150;
+   left pointer 0;
+   right pointer 0;
+first branching node 22
+Hello world from processor mkl-GE60-2PE, rank 6 out of 7 processors
+Primal     7085   dual    5449.65
+Primal     6778   dual    5449.65
+Primal     6334   dual    5449.65
+Primal     6334   dual    5474.23
+Primal     6334   dual    5474.37
+Primal     6319   dual    5474.37
+Primal     6313   dual    5474.37
+Primal     6252   dual    5474.37
+Primal     6252   dual    5622.2
+Primal     6252   dual    5622.9
+Primal     6252   dual    5628.77
+Primal     6133   dual    5628.77
+Primal     6133   dual    5637.32
+Primal     6116   dual    5637.32
+Primal     6056   dual    5637.32
+Primal     6019   dual    5637.32
+Primal     6019   dual    5738.9
+Primal     6019   dual    5780.38
+Primal     6019   dual    5783.45
+Primal     6019   dual    5789.04
+Primal     6019   dual    5804.75
+Primal     6019   dual    5836.88
+Primal     6019   dual    5840.04
+Primal     6019   dual    5844.5
+Primal     6019   dual    5901.62
+Primal     6019   dual    5905.39
+Primal     6019   dual    5934.83
+Primal     6019   dual    5979.3
+Primal     6019   dual    6012.5
+Primal     6019   dual    6019
+
+Optimal Value	6019
+LP	6019
+Time	1.15509
+Nodes	1701
+STATUS	101
+
+
+
+10 & 5 & 1701 & 1701 & 1701 & 0 & 813 & 6019 & 6019 & 1.15509 & 0.006748
+
